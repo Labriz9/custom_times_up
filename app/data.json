@@ -1,0 +1,41 @@
+{
+    "words":[
+        { "id": "1", "word": "Maison" },
+        { "id": "2", "word": "Chat" },
+        { "id": "3", "word": "Chien" },
+        { "id": "4", "word": "Voiture" },
+        { "id": "5", "word": "Arbre" },
+        { "id": "6", "word": "Soleil" },
+        { "id": "7", "word": "Lune" },
+        { "id": "8", "word": "Fleur" },
+        { "id": "9", "word": "Livre" },
+        { "id": "10", "word": "Table" },
+        { "id": "11", "word": "Chaise" },
+        { "id": "12", "word": "Stylo" },
+        { "id": "13", "word": "Porte" },
+        { "id": "14", "word": "Fenêtre" },
+        { "id": "15", "word": "Lit" },
+        { "id": "16", "word": "Pain" },
+        { "id": "17", "word": "Eau" },
+        { "id": "18", "word": "Pomme" },
+        { "id": "19", "word": "Mer" },
+        { "id": "20", "word": "Montagne" },
+        { "id": "21", "word": "Route" },
+        { "id": "22", "word": "Ville" },
+        { "id": "23", "word": "Enfant" },
+        { "id": "24", "word": "Homme" },
+        { "id": "25", "word": "Femme" },
+        { "id": "26", "word": "Ami" },
+        { "id": "27", "word": "Temps" },
+        { "id": "28", "word": "Argent" },
+        { "id": "29", "word": "Musique" },
+        { "id": "30", "word": "Vélo" }
+    ],
+
+    "round":[
+        { "id": "1", "title": "Carte Blanche"},
+        { "id": "2", "title": "Mot de passe"},
+        { "id": "3", "title": "Mimes"},
+        { "id": "4", "title": "Fin"}
+    ]
+}
